@@ -136,6 +136,7 @@ I suggest starting from an existing config file, change the size of the tape to 
 ### Credits
 
 Author: Fl_GUI#5136
+
 inspiration: Froil#6092
 
 Froil came up with the original idea of nesting and redefining aliases. I jokingly said that the `kartexec.cfg` file is Turing complete and the ball started rolling.
