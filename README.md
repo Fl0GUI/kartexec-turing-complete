@@ -4,6 +4,8 @@ This repository is collection of `kartexec.cfg` files that implement Turing mach
 
 `kartexec.cfg` is a configuration file for [SRB2Kart](https://srb2.org/mods/). It is a kart racing mod based on the 3D Sonic the Hedgehog fangame [Sonic Robo Blast 2](https://srb2.org/), based on a modified version of [Doom Legacy](http://doomlegacy.sourceforge.net/).
 
+![demo](img/demo.gif?raw=true)
+
 The Turing machines are implemented with extensive use of the `alias` command.
 
 `alias <name> <command>: create a shurtcut command that executes other commands` 
