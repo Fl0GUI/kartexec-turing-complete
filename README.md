@@ -1,6 +1,6 @@
 # `kartexec.cfg` is Turing complete
 
-This repository is demonstartion that `kartexec.cfg` files are Turing machines.
+This repository is a demonstartion that `kartexec.cfg` files are Turing machines.
 
 `kartexec.cfg` is a configuration file for [SRB2Kart](https://srb2.org/mods/). It is a kart racing mod based on the 3D Sonic the Hedgehog fangame [Sonic Robo Blast 2](https://srb2.org/), based on a modified version of [Doom Legacy](http://doomlegacy.sourceforge.net/).
 
